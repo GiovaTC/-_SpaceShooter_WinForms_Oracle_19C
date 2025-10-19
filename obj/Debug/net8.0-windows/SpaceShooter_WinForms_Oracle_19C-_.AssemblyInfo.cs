@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpaceShooter_WinForms_Oracle_19C-_")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c119d625f6f40859e8e136f0ec310bacc3bbb274")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7eef02f3e25ad65b583b71fc239aa3b90652e84a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpaceShooter_WinForms_Oracle_19C-_")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpaceShooter_WinForms_Oracle_19C-_")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
